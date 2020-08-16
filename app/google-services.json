@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300781620972",
+    "firebase_url": "https://describer-9d807.firebaseio.com",
+    "project_id": "describer-9d807",
+    "storage_bucket": "describer-9d807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300781620972:android:66877d67aaec4a75f09fc9",
+        "android_client_info": {
+          "package_name": "com.helloo.describer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300781620972-n8ek5m8qqecjgji4ihgs00olg2k6vjli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhb1XlmOSwcFgdQLi5NgoKZvUvp-_E9tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300781620972-n8ek5m8qqecjgji4ihgs00olg2k6vjli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
